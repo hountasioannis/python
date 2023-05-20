@@ -1,0 +1,1 @@
+APP_PATH = "C:/Users/ioann/Python/coding_factory_excercise/teachers_app"
